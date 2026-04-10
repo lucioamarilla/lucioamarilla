@@ -8,7 +8,7 @@
 # About Me: 
 I am a Systems Information Engineering student with a strong interest in software development, artificial intelligence, and data science. I enjoy working on projects that combine backend development, data analysis, and automation, mainly using Python. Currently, I am exploring the use of AI models, chatbot development, and interactive applications. I am always looking to learn new technologies and improve my skills through hands-on projects.
 
-## My Stack
+## My Stack:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
