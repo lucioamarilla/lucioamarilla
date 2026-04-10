@@ -5,10 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Backend+Developer;AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-# About Me: 
+# About Me
 I am a Systems Information Engineering student with a strong interest in software development, artificial intelligence, and data science. I enjoy working on projects that combine backend development, data analysis, and automation, mainly using Python. Currently, I am exploring the use of AI models, chatbot development, and interactive applications. I am always looking to learn new technologies and improve my skills through hands-on projects.
 
-## My Stack:
+## My Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,7 +50,7 @@ I am a Systems Information Engineering student with a strong interest in softwar
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 <div>
-<h2>Github stats:</h2> 
+<h2>Github stats</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=lucioamarilla&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lucioamarilla)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lucioamarilla&theme=material-palenight)](https://github.com/lucioamarilla)
